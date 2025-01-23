@@ -1,4 +1,4 @@
-👋 Hey there! I'm Khushi (@Katch-me)<br>
+👋 **Hey there! I'm Khushi** )<br><br>
 👀 About Me<br>
 🌟 Curious Learner: Passionate about technology, software development, and creative problem-solving.<br>
 🎯 Interests: Exploring web development, blockchain technology, and creative design.<br><br>
