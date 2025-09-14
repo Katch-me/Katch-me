@@ -13,10 +13,12 @@ Final-year engineering student with experience in backend development, blockchai
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katch-me&layout=compact&theme=radical)
 
 ## Research & Publications
-- **TinyML-Driven Spam Classification Framework for AVs Communication in 5G-Enabled V2X Networks** – IEEE TENSYMP 2025  
+- ![IEEE](https://img.shields.io/badge/IEEE-TENSYMP_2025-blue?style=for-the-badge)  
+  **TinyML-Driven Spam Classification Framework for AVs Communication in 5G-Enabled V2X Networks**  
   Developed a TinyML-based model to classify spam messages in autonomous vehicle (AV) communication over 5G networks, improving reliability and efficiency.  
 
-- **CosmoLite: A Lightweight XAI-Based Framework for Secure Next-Generation Space Sensor Networks** – IEEE INFOCOM 2025  
+- ![IEEE](https://img.shields.io/badge/IEEE-INFOCOM_2025-red?style=for-the-badge)  
+  **CosmoLite: A Lightweight XAI-Based Framework for Secure Next-Generation Space Sensor Networks**  
   Designed a lightweight and explainable AI (XAI) framework for anomaly detection in space sensor networks, enhancing security and interpretability of low-resource models.
 
 ## Collaboration
