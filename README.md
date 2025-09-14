@@ -8,6 +8,17 @@ Final-year engineering student with experience in backend development, blockchai
 - **Blockchain Development:** Solidity, Ethereum smart contracts, and decentralized applications (dApps).  
 - **Machine Learning & Data Science:** Credit card fraud detection, anomaly detection, and predictive modeling using Python and relevant ML frameworks.
 
+## GitHub Stats
+![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Katch-me&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katch-me&layout=compact&theme=radical)
+
+## Research & Publications
+- **TinyML-Driven Spam Classification Framework for AVs Communication in 5G-Enabled V2X Networks** – IEEE TENSYMP 2025  
+  Developed a TinyML-based model to classify spam messages in autonomous vehicle (AV) communication over 5G networks, improving reliability and efficiency.  
+
+- **CosmoLite: A Lightweight XAI-Based Framework for Secure Next-Generation Space Sensor Networks** – IEEE INFOCOM 2025  
+  Designed a lightweight and explainable AI (XAI) framework for anomaly detection in space sensor networks, enhancing security and interpretability of low-resource models.
+
 ## Collaboration
 Open to collaborating on backend projects, blockchain applications, machine learning initiatives, and hackathons.
 
@@ -20,7 +31,3 @@ She/Her
 
 ## Fun Fact
 I’m fascinated by agentic AI and its potential to make autonomous, intelligent decisions—this curiosity is driving me to explore AI and machine learning in more depth, combining technology with real-world problem-solving.
-
-
-![IEEE TENSYMP 2025](https://img.shields.io/badge/Conference-IEEE_TENSYMP_2025-blue?style=for-the-badge)
-![IEEE INFOCOM 2025](https://img.shields.io/badge/Conference-IEEE_INFOCOM_2025-red?style=for-the-badge)
