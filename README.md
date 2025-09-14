@@ -20,3 +20,7 @@ She/Her
 
 ## Fun Fact
 I’m fascinated by agentic AI and its potential to make autonomous, intelligent decisions—this curiosity is driving me to explore AI and machine learning in more depth, combining technology with real-world problem-solving.
+
+
+![IEEE TENSYMP 2025](https://img.shields.io/badge/Conference-IEEE_TENSYMP_2025-blue?style=for-the-badge)
+![IEEE INFOCOM 2025](https://img.shields.io/badge/Conference-IEEE_INFOCOM_2025-red?style=for-the-badge)
