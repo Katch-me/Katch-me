@@ -1,16 +1,22 @@
-👋 **Hey there! I'm Khushi** )<br><br>
-👀 About Me<br>
-🌟 Curious Learner: Passionate about technology, software development, and creative problem-solving.<br>
-🎯 Interests: Exploring web development, blockchain technology, and creative design.<br><br>
-🌱 Currently Learning<br>
-🖥️ Backend Development: Mastering APIs, database management, and server-side programming.<br>
-🌐 Frontend Magic: Creating interactive user interfaces with ReactJS.<br><br>
-💞️ Collaboration Goals<br>
-🚀 Open to collaborating on web development projects, hackathons, and blockchain innovation ideas.<br><br>
-📫 Reach Me<br>
-✉️ Email: khushivasava8@gmail.com<br>
-💼 LinkedIn: https://www.linkedin.com/in/khushi-vasava-105b7a2a6/<br><br>
-😄 Pronouns<br>
-She/Her<br><br>
-⚡ Fun Fact<br>
-I find blockchain fascinating because it’s like solving a puzzle, one block at a time, to decentralize everything and make trust and transparency the new norm! 🧩🔍✨<br>
+# Hi, I’m Khushi
+
+## About Me
+Final-year engineering student with experience in backend development, blockchain applications, and machine learning. Developed full-stack and decentralized applications using React, Solidity, and Ethereum smart contracts, and now exploring real-world applications like credit card fraud detection. Passionate about building scalable, secure, and data-driven solutions.
+
+## Currently Learning
+- **Backend Development:** APIs, database management, server-side programming, and building scalable backend systems.  
+- **Blockchain Development:** Solidity, Ethereum smart contracts, and decentralized applications (dApps).  
+- **Machine Learning & Data Science:** Credit card fraud detection, anomaly detection, and predictive modeling using Python and relevant ML frameworks.
+
+## Collaboration
+Open to collaborating on backend projects, blockchain applications, machine learning initiatives, and hackathons.
+
+## Contact
+- **Email:** khushivasava8@gmail.com  
+- **LinkedIn:** [linkedin.com/in/khushi-vasava-105b7a2a6](https://www.linkedin.com/in/khushi-vasava-105b7a2a6/)
+
+## Pronouns
+She/Her
+
+## Fun Fact
+I’m fascinated by agentic AI and its potential to make autonomous, intelligent decisions—this curiosity is driving me to explore AI and machine learning in more depth, combining technology with real-world problem-solving.
