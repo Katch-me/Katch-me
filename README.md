@@ -1,7 +1,7 @@
 # Hi, I’m Khushi
 
 ## About Me
-Final-year engineering student with experience in backend development, blockchain applications, and machine learning. Developed full-stack and decentralized applications using React, Solidity, and Ethereum smart contracts, and now exploring real-world applications like credit card fraud detection. Passionate about building scalable, secure, and data-driven solutions.
+Final-year engineering student with experience in backend development, blockchain applications, and machine learning. Developed full-stack and decentralized applications using React, Solidity, and Ethereum smart contracts, and now exploring real-world applications . Passionate about building scalable, secure, and data-driven solutions.
 
 ## Currently Learning
 - **Backend Development:** APIs, database management, server-side programming, and building scalable backend systems.  
